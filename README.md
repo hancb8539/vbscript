@@ -1,0 +1,2 @@
+# vbscript
+vbscript practice
